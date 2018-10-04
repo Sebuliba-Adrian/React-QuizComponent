@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import QuizQuestionButton from "./QuizQuestionButton.js";
+import React, { Component } from 'react';
+import QuizQuestionButton from './QuizQuestionButton';
 class QuizQuestion extends Component {
   constructor(props) {
     super(props);
